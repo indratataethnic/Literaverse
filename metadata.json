@@ -1,0 +1,6 @@
+{
+  "name": "Literaverse",
+  "description": "Aplikasi Petualangan Literasi SD Interaktif dengan 6 Dunia Teks, Misi AKM Naratif, Penilaian AI, dan Level Kemampuan (Explorer hingga Master).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
